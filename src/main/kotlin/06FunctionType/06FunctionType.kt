@@ -1,4 +1,4 @@
-package `06FunctionType `
+package `06FunctionType`
 
 typealias Arithmetic = (Int, Int) -> Int
 

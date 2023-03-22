@@ -1,4 +1,4 @@
-package `14FunctionInsideFunction `
+package `14FunctionInsideFunction`
 
 fun sum(valueA: Int, valueB: Int, valueC: Int): Int {
     fun validateNumber(value: Int) {
